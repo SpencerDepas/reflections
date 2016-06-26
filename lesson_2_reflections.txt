@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you use git init it makes a new repo. You still need to commit the repo.
