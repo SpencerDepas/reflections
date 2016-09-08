@@ -12,3 +12,7 @@ More on the staging area.
 The staging area allows an intermiatory area so you can make more precise commits. 
 You can add only the relevant changes in one commit and other changes in another 
 commit. We can do this because of the staging area.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different because it is the place items are put before they are committed. With a staging area you can make several commits from the same working directly. This could be handy if I made two logical changes in two different files and would like to make two commits for the two changes.
