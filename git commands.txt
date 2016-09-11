@@ -1,0 +1,14 @@
+
+
+git diff compares the working directly to the staging area 
+
+git diff —-staged this compares the staging area and the last commit in your repo.
+
+git reset -—hard resets deletes changes in the staging area or working directly unrevesable. can’t get the changes back.
+
+git branch
+this list all branches
+
+git branch busbus-france
+git branch followed by a name create a branch called busbus-france
+
