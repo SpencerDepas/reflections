@@ -25,6 +25,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can use the staging area to make one commit per logical change by only adding things relating to themselves to the staging area. Then you can make a commit. If you make two logicle changes that effect 10 files, you can add half to one staging area, followed by a commit and then the other half to another staging area followed by a commit.
 
 
+One should make a commit with every logical change.
+
+
 
 
 
