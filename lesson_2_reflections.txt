@@ -16,3 +16,21 @@ commit. We can do this because of the staging area.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is different because it is the place items are put before they are committed. With a staging area you can make several commits from the same working directly. This could be handy if I made two logical changes in two different files and would like to make two commits for the two changes.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+
+You can use the staging area to make one commit per logical change by only adding things relating to themselves to the staging area. Then you can make a commit. If you make two logicle changes that effect 10 files, you can add half to one staging area, followed by a commit and then the other half to another staging area followed by a commit.
+
+
+
+
+
+
+
+
+
+
+
