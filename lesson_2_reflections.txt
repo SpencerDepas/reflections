@@ -29,6 +29,16 @@ One should make a commit with every logical change.
 
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Bracnhes could be helpful if you want to do something that may break your program. Or maybe you want to try something that would change your prorgam and make it do something completly difrent. Maybe you turn your shooting game into an algorythem that solves cancer. But you still want the shooting game. That would be a good time to start a branch.
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams helpme visuelise the structure becuase it does not seem that complicated. It seems like a tree data structure. It also has helped me understand the logic, that a branch will not have other inofmation another brnch has.
+
 
 
 
