@@ -42,6 +42,13 @@ Diagrams helpme visuelise the structure becuase it does not seem that complicate
 
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a new master branch. Which will share the same commits. The commits will be orgnaized by time.
+
+
+
+
 
 
 
