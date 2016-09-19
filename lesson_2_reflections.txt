@@ -47,6 +47,12 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is a new master branch. Which will share the same commits. The commits will be orgnaized by time.
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+If we had to do merges manuelly then we would spend a lot of time doing work that
+could be automated. But, sometimes we need to do a merge manuelly to ensure we get the desired result.
+
+
 
 
 
