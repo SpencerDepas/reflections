@@ -14,6 +14,10 @@ git branch followed by a name create a branch called busbus-france
 
 git show is like git dif but it shows you the diff between it and its parent. This is helpful after a merge. doing git diff on something that is not a parent would not be very helpful.
 
+*To merge branches,
+ go on the master branch 
+git merge master tablet-version
+
 
 git branch -d branchName will delete a branch.
 
